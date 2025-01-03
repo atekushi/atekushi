@@ -1,0 +1,14 @@
+{
+    "name": "atekushi/atekushi",
+    "description": "Simple PHP Framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Endrika Nanami",
+            "email": "endrika.nanami@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
